@@ -1,0 +1,46 @@
+C:\Users\Sam\source\repos\Ancient History Quiz\bin\Debug\Ancient History Quiz.exe.config
+C:\Users\Sam\source\repos\Ancient History Quiz\bin\Debug\Ancient History Quiz.exe
+C:\Users\Sam\source\repos\Ancient History Quiz\bin\Debug\Ancient History Quiz.pdb
+C:\Users\Sam\source\repos\Ancient History Quiz\obj\Debug\Ancient History Quiz.csproj.AssemblyReference.cache
+C:\Users\Sam\source\repos\Ancient History Quiz\obj\Debug\Ancient History Quiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sam\source\repos\Ancient History Quiz\obj\Debug\MainWindow.g.cs
+C:\Users\Sam\source\repos\Ancient History Quiz\obj\Debug\App.g.cs
+C:\Users\Sam\source\repos\Ancient History Quiz\obj\Debug\Ancient History Quiz_MarkupCompile.cache
+C:\Users\Sam\source\repos\Ancient History Quiz\obj\Debug\Ancient History Quiz_MarkupCompile.lref
+C:\Users\Sam\source\repos\Ancient History Quiz\obj\Debug\MainWindow.baml
+C:\Users\Sam\source\repos\Ancient History Quiz\obj\Debug\Ancient History Quiz.g.resources
+C:\Users\Sam\source\repos\Ancient History Quiz\obj\Debug\Ancient_History_Quiz.Properties.Resources.resources
+C:\Users\Sam\source\repos\Ancient History Quiz\obj\Debug\Ancient History Quiz.csproj.GenerateResource.cache
+C:\Users\Sam\source\repos\Ancient History Quiz\obj\Debug\Ancient History Quiz.csproj.CoreCompileInputs.cache
+C:\Users\Sam\source\repos\Ancient History Quiz\obj\Debug\Ancient History Quiz.exe
+C:\Users\Sam\source\repos\Ancient History Quiz\obj\Debug\Ancient History Quiz.pdb
+C:\Users\Sam\source\repos\Ancient History Quiz\obj\Debug\Genre.g.cs
+C:\Users\Sam\source\repos\Ancient History Quiz\obj\Debug\Genre.baml
+C:\Users\Sam\source\repos\Ancient History Quiz\obj\Debug\windowRH.g.cs
+C:\Users\Sam\source\repos\Ancient History Quiz\obj\Debug\windowRH.baml
+C:\Users\Sam\source\repos\Ancient History Quiz\obj\Debug\WindowGH.g.cs
+C:\Users\Sam\source\repos\Ancient History Quiz\obj\Debug\WindowGH.baml
+C:\Users\sama1\OneDrive\Desktop\Ancient History Quiz\Ancient History Quiz\bin\Debug\Ancient History Quiz.exe.config
+C:\Users\sama1\OneDrive\Desktop\Ancient History Quiz\Ancient History Quiz\bin\Debug\Ancient History Quiz.exe
+C:\Users\sama1\OneDrive\Desktop\Ancient History Quiz\Ancient History Quiz\bin\Debug\Ancient History Quiz.pdb
+C:\Users\sama1\OneDrive\Desktop\Ancient History Quiz\Ancient History Quiz\obj\Debug\Ancient History Quiz.csproj.AssemblyReference.cache
+C:\Users\sama1\OneDrive\Desktop\Ancient History Quiz\Ancient History Quiz\obj\Debug\Ancient History Quiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\sama1\OneDrive\Desktop\Ancient History Quiz\Ancient History Quiz\obj\Debug\FinalScore.g.cs
+C:\Users\sama1\OneDrive\Desktop\Ancient History Quiz\Ancient History Quiz\obj\Debug\Genre.g.cs
+C:\Users\sama1\OneDrive\Desktop\Ancient History Quiz\Ancient History Quiz\obj\Debug\MainWindow.g.cs
+C:\Users\sama1\OneDrive\Desktop\Ancient History Quiz\Ancient History Quiz\obj\Debug\WindowGH.g.cs
+C:\Users\sama1\OneDrive\Desktop\Ancient History Quiz\Ancient History Quiz\obj\Debug\WindowRH.g.cs
+C:\Users\sama1\OneDrive\Desktop\Ancient History Quiz\Ancient History Quiz\obj\Debug\App.g.cs
+C:\Users\sama1\OneDrive\Desktop\Ancient History Quiz\Ancient History Quiz\obj\Debug\Ancient History Quiz_MarkupCompile.cache
+C:\Users\sama1\OneDrive\Desktop\Ancient History Quiz\Ancient History Quiz\obj\Debug\Ancient History Quiz_MarkupCompile.lref
+C:\Users\sama1\OneDrive\Desktop\Ancient History Quiz\Ancient History Quiz\obj\Debug\Genre.baml
+C:\Users\sama1\OneDrive\Desktop\Ancient History Quiz\Ancient History Quiz\obj\Debug\MainWindow.baml
+C:\Users\sama1\OneDrive\Desktop\Ancient History Quiz\Ancient History Quiz\obj\Debug\WindowGH.baml
+C:\Users\sama1\OneDrive\Desktop\Ancient History Quiz\Ancient History Quiz\obj\Debug\WindowRH.baml
+C:\Users\sama1\OneDrive\Desktop\Ancient History Quiz\Ancient History Quiz\obj\Debug\FinalScore.baml
+C:\Users\sama1\OneDrive\Desktop\Ancient History Quiz\Ancient History Quiz\obj\Debug\Ancient History Quiz.g.resources
+C:\Users\sama1\OneDrive\Desktop\Ancient History Quiz\Ancient History Quiz\obj\Debug\Ancient_History_Quiz.Properties.Resources.resources
+C:\Users\sama1\OneDrive\Desktop\Ancient History Quiz\Ancient History Quiz\obj\Debug\Ancient History Quiz.csproj.GenerateResource.cache
+C:\Users\sama1\OneDrive\Desktop\Ancient History Quiz\Ancient History Quiz\obj\Debug\Ancient History Quiz.csproj.CoreCompileInputs.cache
+C:\Users\sama1\OneDrive\Desktop\Ancient History Quiz\Ancient History Quiz\obj\Debug\Ancient History Quiz.exe
+C:\Users\sama1\OneDrive\Desktop\Ancient History Quiz\Ancient History Quiz\obj\Debug\Ancient History Quiz.pdb
